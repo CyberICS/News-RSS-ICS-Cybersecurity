@@ -22,6 +22,7 @@ FR :
 Email notification :
 - ABB advisories : https://global.abb/group/en/technology/cyber-security/alerts-and-notifications
 - Rockwell Automation : https://map.rockwellautomation.com/subscribe
+- Schneider Electric : https://www.se.com/ww/en/work/support/cybersecurity/notification-contact.jsp
 
 Other link : 
 - https://www.mitsubishielectric.com/en/psirt/vulnerability/index.html
