@@ -1,6 +1,7 @@
 # News RSS feed about ICS Cybersecurity
 
 EN :
+- [NEWS / VULNERABILITY] https://github.com/CyberICS/CyberICS.github.io/commits/master.atom
 - [CISA ICS Advisories] https://us-cert.cisa.gov/ics/advisories/advisories.xml
 - [CISA ICS Alerts] https://us-cert.cisa.gov/ics/alerts/alerts.xml
 - [CISA ICS Announcements] https://us-cert.cisa.gov/ics/announcements/announcements.xml
